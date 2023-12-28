@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Junior Android Developer. My current skill set are developing Android Mobile Apps and UI/UX designing.
+I'm a Junior Android Developer from the Philippines. I enjoy developing mobile apps using Kotlin, Clean Architecture, and MVP Pattern. I'm currently refining my skills in Jetpack Compose and Kotlin Multiplatform.
 
 
 ## 🌐 Socials:
