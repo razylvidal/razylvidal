@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Junior Android Developer. My current skill set are developing android mobile apps and UI/UX designing.
+I'm a Junior Android Developer. My current skill set are developing Android Mobile Apps and UI/UX designing.
 
 
 ## 🌐 Socials:
