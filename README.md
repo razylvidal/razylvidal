@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Junior Android Developer from the Philippines. I enjoy developing mobile apps using Kotlin, Clean Architecture, and MVP Pattern. I'm currently refining my skills in Jetpack Compose and Kotlin Multiplatform. I am also planning to learn Web Development alongside coz staying in your comfort zone is awful🤣.
+I'm a Junior Android Developer from the Philippines. I enjoy developing mobile apps using Kotlin, Clean Architecture, and MVP Pattern. I also love UI/UX designing. I'm currently refining my skills in Jetpack Compose and Kotlin Multiplatform. I am also planning to learn Web Development alongside coz staying in your comfort zone is awful🤣.
 
 
 ## 🌐 Socials:
