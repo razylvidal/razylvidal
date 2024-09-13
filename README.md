@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Junior Android Developer from the Philippines. I enjoy developing mobile apps using Kotlin, Clean Architecture, and MVP Pattern. I also love UI/UX designing.
+I'm a Junior Android Developer from Philippines. I enjoy developing mobile apps using Kotlin, Clean Architecture, and MVP Pattern. I also love UI/UX designing.
 
 
 ## 🌐 Socials:
