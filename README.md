@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Junior Android Developer from Philippines. I enjoy developing mobile apps using Kotlin, Clean Architecture, and MVP Pattern. I also love UI/UX designing.
+I pretend that I am good at doing stuffs.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codesthetic.06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/razyl-abbygail-vidal-b15ab723b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sophiloma.andrique) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@waku06) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22045186) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@RazVidal_) [![codewars](https://img.shields.io/badge/Codewars-%F607A0FB.svg?logo=Codewars&logoColor=white)](https://www.codewars.com/users/razylvidal)
