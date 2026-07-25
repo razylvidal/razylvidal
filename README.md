@@ -25,4 +25,111 @@ I pretend that I am good at doing stuffs.
 ---
 [![](https://visitcount.itsvg.in/api?id=razylvidal&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 👋 Hello, I'm an Android Developer
+
+Welcome to my GitHub! I'm passionate about building beautiful, robust, and scalable Android applications. I specialize in creating seamless mobile experiences using modern development practices and cutting-edge technologies.
+
+---
+
+## 💼 About Me
+
+I'm a dedicated **Android Developer** focused on crafting high-quality mobile applications. My expertise spans across mobile development, UI/UX design, and automation testing. I'm committed to writing clean, maintainable code and following industry best practices.
+
+Currently, I'm **actively learning and exploring** new technologies to stay at the forefront of Android development.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Mobile Development
+- **Kotlin** - Primary language for Android development
+- **Jetpack Compose** - Modern declarative UI toolkit
+- **Compose Multiplatform** - Building cross-platform applications
+
+### Architecture & Design
+- **Clean Architecture** - Implementing scalable and maintainable architectures
+- **UI/UX Design** - Creating intuitive and visually appealing interfaces
+
+### Quality Assurance
+- **Automation Testing** - Ensuring code quality and reliability
+
+### Core Competencies
+```
+├── Android Development
+├── Mobile App Design
+├── Clean Code Practices
+├── Jetpack Components
+├── Kotlin Programming
+├── UI/UX Principles
+└── Test Automation
+```
+
+---
+
+## 🚀 Currently Learning
+
+- 📱 Deepening expertise in **Compose Multiplatform** development
+- 🏗️ Exploring advanced **Clean Architecture** patterns
+- ✅ Mastering **Automation Testing** frameworks
+- 🎨 Enhancing **UI/UX Design** skills
+- 💡 Discovering new Kotlin features and best practices
+
+---
+
+## 💭 Developer Wisdom
+
+> "Code is poetry written for computers, but it must be readable for humans."
+
+> "The best code is not the one that does everything, but the one that does one thing exceptionally well."
+
+> "In Android development, user experience isn't a feature—it's a foundation."
+
+> "Clean code today saves debugging hours tomorrow."
+
+> "Compose didn't change Android, it changed how we think about Android UI."
+
+> "Every app is an opportunity to delight users and solve real problems."
+
+> "Quality is not negotiable; it's a commitment."
+
+> "The most important feature is the one that works reliably, every single time."
+
+---
+
+## 📊 My GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🎯 Philosophy
+
+I believe in:
+- ✨ Writing clean, self-documenting code
+- 🏗️ Building scalable architectures
+- 🎨 Creating delightful user experiences
+- ✅ Comprehensive testing and quality assurance
+- 📚 Continuous learning and growth
+- 🤝 Contributing to the developer community
+
+---
+
+## 📝 What Inspires Me
+
+- Building applications that make a real difference
+- Solving complex problems with elegant solutions
+- Exploring new technologies and methodologies
+- Growing as a developer and sharing knowledge with others
+
+---
+
+<div align="center">
+
+### Happy Coding! 🚀
+
+*Let's build something amazing together*
+
+</div>
